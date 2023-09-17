@@ -8,7 +8,7 @@ apt update -y && apt upgrade -y && apt dist-upgrade -y && reboot
 # UPDATE UNTUK UBUNTU
 apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 # INSTALL
-<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/wingshope/haproxy/main/premi.sh && chmod +x premi.sh && screen -S install ./premi.sh</code></pre>
+<pre><code>apt install -y wget screen && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/wingshope/haproxy/main/setup.sh && chmod +x setup.sh && screen -S install ./setup.sh</code></pre>
 
 ## Silahkan Hubungi/ Supot Me
 # My Telegram : <a href="https://t.me/wingsofhope" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Telegram&label=Telegram&message=Click%20Here&color=blue"></a><br>
