@@ -22,6 +22,7 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 <br>
 ✅ OpenSSH : 22 <br>
 ✅ Dropbear : 109,143 <br>
+✅ Open VPN : 443,1194,2200 <br>
 ✅ SSH SSL Websocket : 443 <br>
 ✅ Vmess WS TLS : 443 <br>
 ✅ Vless WS TLS : 443 <br>
@@ -35,6 +36,6 @@ apt update && apt upgrade -y && update-grub && sleep 2 && reboot
 ✅ Vmess WS none TLS : 80 <br>
 ✅ Vless WS none TLS : 80 <br>
 ✅ Stunnel5 : 447,777 <br>
-✅ UDP&DNS
+✅ UDP&DNS : 1-6500
 
 ![IMG_20230917_234219](https://github.com/wingshope/haproxy/assets/138878860/e4c34593-2180-4a58-9ce1-e376d40312cc)
